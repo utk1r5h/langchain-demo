@@ -8,7 +8,7 @@ model = ChatOllama(
     temperature=0
 )
 
-st.title("📚 Research Paper Explainer")
+st.title("Research Paper Explainer")
 
 # Inputs
 paper_input = st.selectbox(
